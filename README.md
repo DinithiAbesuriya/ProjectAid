@@ -1,3 +1,2 @@
 # ProjectAid
-This project was developed as a part of assignment for Project and Professional Aspect module.This project was build for our client which was a hospital inorder to manage their internal management system which included
-##Managing patient details
+This project was developed as a part of assignment for Project and Professional Aspect module.Our team developed a project for a hospital client to improve their internal management system. The current system relies on manual entry of patient data in a physical book. To enhance efficiency, we created an application that enables the hospital receptionists to maintain patient records digitally. Additionally, doctors can access patients' medical reports and other essential details through the application.For the development of this application, we utilized HTML, PHP, CSS, and JavaScript.
